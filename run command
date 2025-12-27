@@ -1,0 +1,2 @@
+streamlit run client/client_streamlit.py        (client)
+python -m server.server                         (server)
